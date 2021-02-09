@@ -1,0 +1,384 @@
+.hidden
+{
+	display: none;
+}
+
+#container
+{
+	width: 1440px;
+	margin: 0 auto;
+}
+
+#mainHeader
+{
+	height: 680px;
+	background-color: #D8D8D8;
+}
+
+#topbar
+{
+	height: 50px;
+	background-color: #EBEBEB;
+}
+
+#logoNav
+{
+	height: 165px;
+	width: 1200px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#navLeft
+{
+	width: 400px;
+	height: 70px;
+	background-color: black;
+	margin-top: 30px;
+	display: flex;
+	flex-direction: row;
+}
+
+#logo
+{
+	width: 280px;
+	height: 165px;
+	background-color: black;
+}
+
+#navRight
+{
+	width: 400px;
+	height: 70px;
+	margin-top: 30px;
+	background-color: black;
+	display: flex;
+}
+
+#promoText
+{
+	width: 500px;
+	height: 295px;
+	background-color: black;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+#homeButton
+{
+	width: 240px;
+	height: 75px;
+	background-color: black;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+#homeFeatures
+{
+	width: 1330px;
+	height: 410px;
+	margin: 0 auto;
+	margin-top: 40px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#feature1
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+#feature2
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+#feature3
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+#promo2
+{
+	width: 1330px;
+	height: 410px;
+	margin: 0 auto;
+	margin-top: 40px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#promo2Text
+{
+	width: 872px;
+	height: 410px;
+	background-color: black;
+}
+
+#promo2Image
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+#promo3
+{
+	width: 1330px;
+	height: 410px;
+	margin: 0 auto;
+	margin-top: 40px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#promo3Image
+{
+	width: 645px;
+	height: 410px;
+	background-color: black;
+}
+
+#promo3Image2
+{
+	width: 645px;
+	height: 410px;
+	background-color: black;
+}
+
+#mainFooter
+{
+	width: 1330px;
+	height: 205px;
+	margin: 0 auto;
+	margin-top: 40px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	background-color: #D8D8D8;
+}
+
+#footerNav
+{
+	width: 870px;
+	height: 70px;
+	background-color: black;
+	margin-top: 65px;
+}
+
+#footerLogo
+{
+	width: 280px;
+	height: 165px;
+	background-color: black;
+	margin-top: 20px;
+}
+
+/*Contact Form Starts Here*/
+
+#content
+{
+	display: flex;
+	flex-direction: row;
+}
+
+#contactLeft
+{
+	width: 728px;
+	height: 1140px;
+	/*background-color: #D8D8D8;*/
+}
+
+#contactForm
+{
+	width: 515px;
+	height: 1080px;
+	margin: 0 auto;
+	margin-top: 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+#contactHeader
+{
+	width: 515px;
+	height: 130px;
+	background-color: black;
+}
+
+#contactText
+{
+	width: 515px;
+	height: 165px;
+	background-color: black;
+}
+
+#formSection
+{
+	width: 515px;
+	height: 690px;
+	background-color: black;
+}
+
+#contactRight
+{
+	width: 728px;
+	height: 1140px;
+}
+
+#mapArea
+{
+	width: 515px;
+	height: 820px;
+	margin: 0 auto;
+	margin-top: 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+#mapHeader
+{
+	width: 515px;
+	height: 130px;
+	background-color: black;
+}
+
+#location
+{
+	width: 515px;
+	height: 165px;
+	background-color: black;
+}
+
+#map
+{
+	width: 515px;
+	height: 415px;
+	background-color: black;
+}
+
+/*Scaffold 3*/
+#mainHeader3
+{
+	height: 615px;
+	background-color: #D8D8D8;
+}
+
+#Products
+{
+	width: 1330px;
+	height: 1310px;
+	margin: 0 auto;
+	margin-top: 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+#row1
+{
+	width: 1330px;
+	height: 410px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#product1
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+#product2
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+#product3
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+#row2
+{
+	width: 1330px;
+	height: 410px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#product4
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+#product5
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+#product6
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+#row3
+{
+	width: 1330px;
+	height: 410px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+
+#product7
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+#product8
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+#product9
+{
+	width: 410px;
+	height: 410px;
+	background-color: black;
+}
+
+
+
+
